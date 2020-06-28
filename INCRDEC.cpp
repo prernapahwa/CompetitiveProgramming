@@ -29,7 +29,7 @@ int main() {
 		if(flag==1) {
 			cout<<"NO"<<endl;
 		}
-		else {
+		else{
 			cout<<"YES"<<endl;
 			for(int i=0;i<max+1;i++) {
 				if(fre[i]>=1) {
